@@ -6,10 +6,8 @@ awk '{print$2"_"$3"_"$4 ":" 0.2*$5 ":" $6}' City_tax_Records.txt | sort -V | gre
 for person in $(cat cleanCity_tax_Records.txt)
 do
     Address="$(echo $person | awk -F: '{print $1}')"
-    echo $Address
     Tax_Due_ofperson="$(echo -e $person | awk -F: '{print $2}')"
     check_address=$(tail -n 1 Addresses.txt)  # Use tail -n 1 to get the last line
-        echo $check_address
     if [[ "$Address" != "$check_address" ]]
     then
         echo "$Address" >> Addresses.txt
