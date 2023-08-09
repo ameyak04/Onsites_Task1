@@ -1,0 +1,91 @@
+1_Closplint_Altro : 16297.4
+1_Quarryville_Aleknagik : 14158.6
+5_Commack_Alkol :27587.6
+5_Suffern_Alkol : 16360.8
+6_McDougal_Almyra :54837.4
+8_Miramonte_Alkol :32518.8
+17_Quarryville_Aleknagik :30936.4
+20_Chocorua_Aguada : 13829.4
+23_Zuni_Aleknagik :37655.0
+28_Redway_Aleppo : 16083.2
+29_Everson_Allenhurst :37923.2
+31_McDougal_Almyra :26529.2
+32_Lacoochee_Abbyville :38249.8
+33_Closplint_Altro : 18632.8
+33_Quarryville_Aleknagik :28975.4
+39_Sonyea_Aleknagik : 17215.8
+40_Urich_Aline : 11228.6
+41_Daisy_Aguada :49726.8
+43_Cottle_Altamont :30827.6
+44_Humptulips_Ailey : 14640
+49_Everson_Allenhurst :26426.0
+50_Daisy_Aguada :30352.0
+50_Towanda_Altoona :22641.4
+52_Morganza_Aline : 14636.2
+54_Sonyea_Aleknagik : 17419
+55_Hawkinsville_Airville : 10756.6
+59_Gordonville_Alderson :28727.2
+60_Hartleton_Ailey :34633.8
+62_Lacoochee_Abbyville : 17995.8
+64_Towanda_Altoona :38813.4
+64_Wawaka_Altoona : 13786.6
+65_Nittayuma_Alamota : 12231.8
+70_Everson_Allenhurst :29990.4
+76_Everson_Aline :37050
+78_Pittsburg_Alamogordo :30431.6
+79_Bobtown_Allegan : 12605.8
+80_Arion_Agar :31237.8
+84_Blairsville_Alamogordo : 10833
+84_Streetsboro_Airville : 13618
+85_Everson_Aline :25145.8
+87_Gordonville_Alderson :25891.8
+88_Streetsboro_Airville : 16024.8
+105_Howardstown_Agar : 12476.4
+105_Molalla_Allenhurst : 13387.2
+110_Chocorua_Aguada :42722.2
+110_Closplint_Altro : 14408.2
+112_Gordonville_Alderson : 18357.8
+113_Delbarton_Abbyville :22836
+115_Commack_Alkol :49636.6
+121_Chocorua_Aguada :48229.4
+122_Lochloosa_Allegan : 19255.2
+126_Lochloosa_Aguada : 19857.8
+130_Blairsville_Alamogordo : 16477.6
+131_Morganza_Aline : 12849
+133_Everson_Allenhurst :28363.6
+134_Hawkinsville_Airville :30489.6
+134_Humptulips_Ailey : 18169.6
+139_Everson_Allenhurst : 19368
+139_Redway_Aleppo :42926.2
+142_Chocorua_Aguada :31703.6
+143_Chocorua_Aguada :52198.0
+144_Martville_Airville : 11032.4
+147_Sonyea_Aleknagik : 10811.4
+148_McDougal_Almyra : 11059.6
+149_McDougal_Almyra : 19097
+151_Zuni_Aleknagik :41395.0
+159_Daisy_Aguada : 11508.6
+159_Towanda_Altoona :36654.0
+160_Daisy_Aguada : 11162
+167_Esparto_Altro :51792.8
+170_Lacoochee_Abbyville :44969.8
+177_Molalla_Allenhurst :50881.4
+178_Arion_Agar :33465.8
+178_Pittsburg_Alamogordo : 19147.8
+179_Mocksville_Altamont : 15698
+180_Molalla_Allenhurst :48005.8
+181_Miramonte_Alkol : 16038.2
+185_Howardstown_Agar :32418.0
+187_Wawaka_Altoona : 13268.6
+189_Kingwood_Ailey :26051.4
+189_Sonyea_Aleknagik :28124.6
+190_Kampsville_Almyra :28070
+191_Labolt_Alamogordo :24630.8
+192_Martville_Airville : 11904.4
+193_Catoosa_Almyra :21369.4
+195_Closplint_Altro : 16610.8
+196_Arion_Agar :25362.2
+197_Catoosa_Almyra :30734.0
+197_Vandyne_Alamota :26101.0
+199_Chenoa_Allegan : 13774.4
+200_Hawkinsville_Airville :41594.0
