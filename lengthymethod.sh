@@ -9,8 +9,6 @@
         awk '{print$1":"$2":"$3":"$4":"$5":"$6":"}' $HOME/City_tax_Records.txt > $HOME/lean_City_tax_Records.txt
         for member in $(cat $HOME/Clean_City_tax_Records.txt)
         do
-        #       echo $member
-        #       sleep 2
         Name="$(echo $member | awk -F:  '{print $1}')"
         HouseNumber="$(echo $member | awk -F:  '{print $2}')"
         District="$(echo $member | awk -F:  '{print $3}')"
